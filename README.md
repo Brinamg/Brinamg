@@ -1,4 +1,4 @@
-## Oiii eu sou a Sabrina Gandra!
+## Olá!! Eu sou a Sabrina Gandra!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brinamg&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
