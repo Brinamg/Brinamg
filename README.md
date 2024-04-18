@@ -1,5 +1,5 @@
 <div align="center">
- *Sabrina Moura Gandra*
+ Sabrina Moura Gandra
 </div>
 <div align="center">
   <a href="https://github.com/Brinamg">
