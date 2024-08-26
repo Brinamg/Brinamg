@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou a Sabrina Moura Gandra!</h1>
-  <h3>Desenvolvedora Fullstack | Analista de Dados | Product Manager</h3>
+  <h3>Desenvolvedora</h3>
 </div>
 
 <br/>
@@ -39,11 +39,11 @@
 
 ### 💼 Projetos Destacados
 
-- **[Story Kingdom](https://github.com/Brinamg/Story-Kingdom)**: Aplicativo de biblioteca infantil digital com recursos de controle parental e integração com Google Books API e Firebase.
+- **[Story Kingdom]([https://github.com/Brinamg/Story-Kingdom](https://github.com/Brinamg/StoryKigndom-TCC-IFSP)**: Aplicativo de biblioteca infantil digital com recursos de controle parental e integração com Google Books API e Firebase.
   
-- **[Análise de Dados da Violência Doméstica](https://github.com/Brinamg/Ligue180-AnaliseDeDados)**: Projeto de análise de dados utilizando machine learning para identificar padrões em casos registrados no Ligue 180.
+- **[Análise de Dados da Violência Doméstica]([https://github.com/Brinamg/Ligue180-AnaliseDeDados](https://github.com/Brinamg/An-lise-de-Dados-de-Viol-ncia-Dom-stica/tree/main))**: Projeto de análise de dados utilizando machine learning para identificar padrões em casos registrados no Ligue 180.
   
-- **[Landing Page de Campanha](https://github.com/Brinamg/Campaign-LandingPage)**: Página de destino interativa desenvolvida para uma campanha de marketing, utilizando HTML, CSS e JavaScript.
+- **[PIAguaViva]([https://github.com/Brinamg/Campaign-LandingPage](https://github.com/PIAguaViva/Backend)**:  Rede social voltada para a educação ambiental desenvolvida durante o bootcamp da Generation. O projeto promove a interação entre alunos e professores, focando na conscientização sobre a preservação do meio ambiente dentro das escolas.
 
 <br/>
 
