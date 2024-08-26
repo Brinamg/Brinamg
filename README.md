@@ -11,4 +11,3 @@ Análise de Dados da Violência Doméstica: Projeto de análise de dados aplicad
 Landing Page de Campanha: Página de destino desenvolvida para uma campanha de marketing, utilizando tecnologias front-end modernas.
 🌐 Tecnologias & Ferramentas:
 
-<div align="center"> <h3>🚀 Estou aberta a novas oportunidades de trabalho!</h3> <p>Sinta-se à vontade para me contatar e conectar no <a href="https://www.linkedin.com/in/sabrinamouragandra/" target="_blank">LinkedIn</a> ou enviar um <a href="mailto:smouragandra@gmail.com">e-mail</a>.</p> </div>
