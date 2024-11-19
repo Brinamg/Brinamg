@@ -38,12 +38,12 @@
 - **[Story Kingdom](https://github.com/Brinamg/StoryKingdom-TCC-IFSP)**  
   - Biblioteca digital infantil com controle parental.  
   - **Contribuição**: Design de interfaces utilizando **Figma** para criar um fluxo intuitivo e envolvente para pais e crianças.  
-  - **Tecnologias**: Figma, Google Books API, Firebase.  
+  - **Tecnologias**: React Native, Google Books API, Firebase.  
 
 - **[PI Água Viva](https://github.com/PIAguaViva)**  
   - Rede social educacional voltada para a conscientização ambiental.  
   - **Contribuição**: Pesquisa de usuários e criação de protótipos de alta fidelidade no **Figma**, com colaboração no **Miro** para brainstorming.  
-  - **Ferramentas**: Figma, Miro, React.  
+  - **Ferramentas**: React.  
 
 - **[GGRecipes](https://www.figma.com/file/Z9sxWefuQuQKQOKYz4xDKI/GGRecipes?node-id=0%3A1&t=77lw7cIlfMGzvG9o-1)**  
   - Protótipo de aplicativo para compartilhamento de receitas com design inovador focado na usabilidade.  
