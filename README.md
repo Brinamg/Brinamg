@@ -23,38 +23,44 @@
 
 ---
 
-### 🚀 Sobre Mim
+# 🚀 Sobre Mim
 
-- 🎓 **Formação**: Finalizando graduação em **Análise e Desenvolvimento de Sistemas** no IFSP.
+- 🎓 **Formação**: Concluindo graduação em **Análise e Desenvolvimento de Sistemas** no IFSP.  
+- 💻 **Áreas de Interesse**: Design UX/UI e Desenvolvimento Frontend.  
+- 🛠 **Tecnologias**: Figma, Miro, Jira, React, JavaScript, Firebase.  
+- 🌱 **Foco Atual**: Aprimorar habilidades em UX/UI, desde a pesquisa de usuário até prototipagem e testes de usabilidade, além de explorar frameworks modernos para criação de interfaces responsivas e acessíveis.  
+- 🎯 **Objetivo**: Criar experiências intuitivas e impactantes que alinhem estética e funcionalidade para resolver problemas reais dos usuários.  
 
-- 💻 **Áreas de Interesse**: Desenvolvimento Fullstack, Análise de Dados, e Product Management.
+---
 
-- 🛠 **Tecnologias**: React, JavaScript, Python, Firebase, Machine Learning.
+# 💼 Projetos Destacados
 
-- 🌱 **Foco Atual**: Aprimoramento em desenvolvimento mobile com React Native e aplicação de técnicas de machine learning em projetos de análise de dados.
+- **[Story Kingdom](https://github.com/Brinamg/StoryKingdom-TCC-IFSP)**  
+  - Biblioteca digital infantil com controle parental.  
+  - **Contribuição**: Design de interfaces utilizando **Figma** para criar um fluxo intuitivo e envolvente para pais e crianças.  
+  - **Tecnologias**: Figma, Google Books API, Firebase.  
 
-- 🎯 **Objetivo**: Transformar dados em insights e criar soluções inovadoras que impactem positivamente os usuários.
+- **[PI Água Viva](https://github.com/PIAguaViva)**  
+  - Rede social educacional voltada para a conscientização ambiental.  
+  - **Contribuição**: Pesquisa de usuários e criação de protótipos de alta fidelidade no **Figma**, com colaboração no **Miro** para brainstorming.  
+  - **Ferramentas**: Figma, Miro, React.  
 
-<br/>
+- **[GGRecipes](https://www.figma.com/file/Z9sxWefuQuQKQOKYz4xDKI/GGRecipes?node-id=0%3A1&t=77lw7cIlfMGzvG9o-1)**  
+  - Protótipo de aplicativo para compartilhamento de receitas com design inovador focado na usabilidade.  
+  - **Contribuição**: Desenvolvimento completo do fluxo UX/UI, incluindo wireframes, protótipos e testes de usabilidade.  
+  - **Ferramentas**: Figma, Miro, Jira.  
 
-### 💼 Projetos Destacados
+---
 
-- **[Story Kingdom]([https://github.com/Brinamg/Story-Kingdom](https://github.com/Brinamg/StoryKigndom-TCC-IFSP)**: Aplicativo de biblioteca infantil digital com recursos de controle parental e integração com Google Books API e Firebase.
-  
-- **[Análise de Dados da Violência Doméstica]([https://github.com/Brinamg/Ligue180-AnaliseDeDados](https://github.com/Brinamg/An-lise-de-Dados-de-Viol-ncia-Dom-stica/tree/main)**: Projeto de análise de dados utilizando machine learning para identificar padrões em casos registrados no Ligue 180.
-  
-- **[PIAguaViva]([https://github.com/Brinamg/Campaign-LandingPage]([https://github.com/PIAguaViva/Backend](https://github.com/PIAguaViva)**:  Rede social voltada para a educação ambiental desenvolvida durante o bootcamp da Generation. O projeto promove a interação entre alunos e professores, focando na conscientização sobre a preservação do meio ambiente dentro das escolas.
-
-<br/>
-
-### 🛠 Tecnologias & Ferramentas
+# 🛠 Tecnologias & Ferramentas
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-10217D?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 <br/>
