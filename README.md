@@ -48,7 +48,7 @@
 - **[GGRecipes](https://www.figma.com/file/Z9sxWefuQuQKQOKYz4xDKI/GGRecipes?node-id=0%3A1&t=77lw7cIlfMGzvG9o-1)**  
   - Protótipo de aplicativo para compartilhamento de receitas com design inovador focado na usabilidade.  
   - **Contribuição**: Desenvolvimento completo do fluxo UX/UI, incluindo wireframes, protótipos e testes de usabilidade.  
-  - **Ferramentas**: Figma, Miro, Jira.  
+  - **Ferramentas**: Figma. 
 
 ---
 
